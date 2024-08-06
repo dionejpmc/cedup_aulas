@@ -1,0 +1,1 @@
+module.exports = 'test-file-stub' //Aqui faz o Mock(fake arquivo) dos arquivos gif, png, svg, etc
